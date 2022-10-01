@@ -3,3 +3,10 @@ for i in range(5):
     
     
 print("Hello")
+
+
+class A:
+    pass
+
+class B:
+    pass
